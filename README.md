@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Wi-fi/PPOE Billing System**
 
-- 🌱 I’m currently learning **Implementing of ISA and the effects of semantic gapping.**
+- 🌱 I’m currently learning **Implemention of ISA and the effects of semantic gapping.**
   
 - 📫 How to reach me **elemanmichael911@gmail.com**
 <img align="right" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="terminal animation" width="200" />
